@@ -1,0 +1,1 @@
+Neste exercício, temos perfis de clientes de um shopping e, para entender melhor cada um, é necessário analisar os dados em busca de insights. Nesse caso, faremos uma clusterização com o método da Hierarquia de Clustering para dizer qual é o perfil médio de dos clientes de cada cluster.
